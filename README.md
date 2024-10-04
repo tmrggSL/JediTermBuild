@@ -1,0 +1,1 @@
+run with java -cp JediTerm-3.47-SNAPSHOT.jar;jediterm-ui-3.47-SNAPSHOT.jar;jediterm-core-3.47-SNAPSHOT.jar;pty4j-0.12.25.jar;kotlin-stdlib-1.9.22.jar;slf4j-jdk14-2.0.9.jar;slf4j-api-2.0.9.jar;annotations-24.0.1.jar;purejavacomm-0.0.11.1.jar;jna-platform-5.13.0.jar;jna-5.13.0.jar com.jediterm.app.JediTermMain
